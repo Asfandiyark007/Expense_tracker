@@ -1,0 +1,12 @@
+[
+    {
+        "expense": "youtube",
+        "id": "f43413de-1dee-4670-879c-d47ef399d218",
+        "amount": 5.99
+    },
+    {
+        "expense": "twitch",
+        "id": "9d8cbb62-766f-423a-8d7b-ef53636584c7",
+        "amount": 4.99
+    }
+]
